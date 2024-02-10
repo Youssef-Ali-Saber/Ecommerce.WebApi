@@ -20,7 +20,6 @@
   - [Shipment Endpoints](#shipment-endpoints)
 - [Authentication with JWT and Refresh Token](#authentication-with-jwt-and-refresh-token)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
@@ -166,13 +165,9 @@ If you'd like to contribute to the project, follow these steps:
 
  new Pull Request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
 - Mention any libraries, tools, or resources used in your project.
 - Include credits to authors or contributors.
 
-Feel free to customize this README according to your project's specific details.
