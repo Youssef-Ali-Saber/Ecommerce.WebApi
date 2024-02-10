@@ -30,7 +30,7 @@ Follow these steps to set up and run the project on your local machine.
 
 Ensure you have the following installed:
 
-- [.NET SDK](https://dotnet.microsoft.com/download)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### Installation
