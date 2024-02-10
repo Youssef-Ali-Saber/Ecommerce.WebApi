@@ -111,7 +111,7 @@ Explore the various endpoints to manage products, users, shopping cart, wishlist
 1. **POST /api/shipments:** Create a new shipment (requires admin access).
 2. **GET /api/shipments/{shipmentId}:** Get details of a specific shipment (requires admin access).
 
-## Authentication with JWT and Refresh Token
+## Authentication with JWT , Refresh Token and Identity
 
 This project uses JWT (JSON Web Tokens) for authentication. When logging in, users receive an access token and a refresh token. Access tokens expire after a certain time, and the refresh token can be used to obtain a new access token without re-entering credentials.
 
