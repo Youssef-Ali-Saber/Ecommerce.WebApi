@@ -1,0 +1,6 @@
+@FirstWebApiProject_E_Commerce__HostAddress = http://localhost:5055
+
+GET {{FirstWebApiProject_E_Commerce__HostAddress}}
+Accept: application/json
+
+###
