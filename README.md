@@ -38,13 +38,13 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Youssef-Ali-Saber/Ecommerce.WebApi
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo
+   cd Ecommerce.WebApi
    ```
 
 3. Restore dependencies and build the project:
