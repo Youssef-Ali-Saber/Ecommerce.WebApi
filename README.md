@@ -156,7 +156,8 @@ If you'd like to contribute to the project, follow these steps:
 
 
 ## Acknowledgments
-
-- Mention any libraries, tools, or resources used in your project.
-- Include credits to authors or contributors.
+.
+.
+.
+.
 
