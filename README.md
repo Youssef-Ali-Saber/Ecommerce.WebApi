@@ -47,20 +47,9 @@ Ensure you have the following installed:
    cd Ecommerce.WebApi
    ```
 
-3. Restore dependencies and build the project:
-
-   ```bash
-   dotnet restore
-   dotnet build
-   ```
-
-4. Configure the database connection in `appsettings.json`.
-
-5. Apply database migrations:
-
-   ```bash
-   dotnet ef database update
-   ```
+3. install Visual Studi (2022 recommended)
+ 
+4. install .Net8 and run project on Visual Studio 
 
 ## Usage
 
